@@ -41,8 +41,8 @@ Combinando la lógica de negocios estratégica con ingeniería de sistemas de al
 ### 📈 Hub de Contratación & Alianzas
 Si buscas un arquitecto técnico para desarrollar infraestructura financiera escalable o sistemas algorítmicos propietarios, hablemos:
 
-* **Upwork (Contratación Oficial):** [Haz clic aquí para ver mi perfil y disponibilidad](TU_LINK_DE_UPWORK)
-* **LinkedIn:** [Conectemos profesionalmente](TU_LINK_DE_LINKEDIN)
+* **LinkedIn:** [Conectemos profesionalmente](https://www.linkedin.com/in/cesaradonyscastillo/)
+* **Upwork:** [Perfil de Consultoría Técnica](https://www.upwork.com/freelancers/~tu-id-aqui) *(Enlace pendiente de actualizar)*
 * **Email Corporativo:** `castleaffiliates1@gmail.com`
 
 > **Note:** Todos los repositorios públicos contienen la arquitectura y el esqueleto técnico. La lógica de generación de Alpha y claves de producción se mantienen en entornos privados encriptados para seguridad de Castle Trade LLC.
