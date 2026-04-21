@@ -15,6 +15,14 @@ Combinando la lógica de negocios estratégica con ingeniería de sistemas de al
 
 ---
 
+### 📊 GitHub Statistics
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=castletrade&show_icons=true&theme=transparent" height="170" alt="Castle Trade's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=castletrade&layout=compact&theme=transparent" height="170" alt="Top Langs" />
+</div>
+
+---
+
 ### 🚀 Institutional Portfolio (Top Tier Projects)
 
 #### ☕ [Trade OMS Java Core](https://github.com/castletrade/trade-oms-java-core)
