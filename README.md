@@ -1,6 +1,7 @@
 # Senior Software Engineer & Quant | Founder of Castle Trade LLC 🏛️
 
 Merging strategic business logic with high-performance systems engineering. I specialize in the architecture and deployment of low-latency trading infrastructures and AI-integrated financial platforms.
+
 ---
 
 ### 🛠️ Tech Stack & Ecosystem
@@ -15,46 +16,44 @@ Merging strategic business logic with high-performance systems engineering. I sp
 ---
 
 ### 📊 GitHub Statistics
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=castletrade&show_icons=true&theme=transparent" height="170" alt="Castle Trade's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=castletrade&layout=compact&theme=transparent" height="170" alt="Top Langs" />
-</div>
+![Cesar's GitHub stats](https://github-readme-stats.vercel.app/api?username=castletrade&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=castletrade&layout=compact&theme=radical)
 
 ---
 
 ### 🚀 Institutional Portfolio (Top Tier Projects)
 
 #### ☕ [Trade OMS Java Core](https://github.com/castletrade/trade-oms-java-core)
-* **Enterprise Order Management:** Esqueleto arquitectónico para un OMS institucional basado en microservicios, utilizando Java 21+, Virtual Threads y programación reactiva (Spring Boot/Project Reactor).
+* **Enterprise Order Management:** Institutional-grade architectural skeleton for an OMS based on microservices, utilizing Java 21+, Virtual Threads, and reactive programming (Spring Boot/Project Reactor).
 * *Stack:* Java 21, Spring Boot 3, R2DBC, Docker.
 
 #### 🌊 [Whale Rider V4 - Core](https://github.com/castletrade/whale-rider-v4-core)
-* **HFT Execution Engine:** Infraestructura asíncrona de alto rendimiento optimizada para desincronización de liquidez.
+* **HFT Execution Engine:** High-performance asynchronous execution infrastructure optimized for liquidity desynchronization and order flow analysis.
 * *Stack:* Python, Docker, Shared Memory IPC.
 
 #### 🧪 [Quant Strategy Suite](https://github.com/castletrade/quant-strategy-suite)
-* **Research & Backtesting:** Framework de investigación estadística y validación de ineficiencias de mercado con rigor institucional.
+* **Research & Backtesting:** Statistical research and market inefficiency validation framework with institutional-grade rigor.
 * *Stack:* Pandas, NumPy, Statsmodels, Vectorized Backtesting.
 
 #### ⚖️ [Alkimia Backend Core](https://github.com/castletrade/alkimia-backend-core)
-* **Fintech & Payments:** Arquitectura modular para gestión de artistas y pasarelas de pago internacionales (Stripe Connect).
-* *Stack:* Node.js, JWT Auth, Ledger Services.
+* **Fintech & Payments:** Modular backend architecture for artist management and automated booking systems with integrated payment flows.
+* *Stack:* Node.js, JWT Auth, Stripe Connect.
 
 #### ⚡ [MQL5 Execution Components](https://github.com/castletrade/mql5-execution-components)
-* **Broker Integration:** Capa de ejecución OOP para MetaTrader 5 con enrutamiento asíncrono de órdenes.
+* **Broker Integration:** Institutional-grade MQL5 execution framework featuring asynchronous order routing and OOP architecture.
 * *Stack:* MQL5 (C++), Low-Latency Routing.
 
 #### 📉 [Pine Script SMC Indicators](https://github.com/castletrade/pine-script-smc-indicators)
-* **Advanced Charting:** Suite de indicadores Smart Money Concepts (SMC) utilizando matrices y lógica avanzada de v5.
+* **Advanced Charting:** Smart Money Concepts (SMC) indicator suite leveraging Pine Script v5 matrix logic and market structure analysis.
 * *Stack:* Pine Script v5, Matrix Operations.
 
 ---
 
-### 📈 Hub de Contratación & Alianzas
-Si buscas un arquitecto técnico para desarrollar infraestructura financiera escalable o sistemas algorítmicos propietarios, hablemos:
+### 📈 Hiring & Partnerships Hub
+If you are looking for a technical architect to develop scalable financial infrastructure or proprietary algorithmic systems, let's talk:
 
-* **Upwork (Contratación Oficial):** [Ver perfil y disponibilidad](https://www.upwork.com/freelancers/~01a4111d17cbc4e97f)
-* **LinkedIn:** [Conectemos profesionalmente](https://www.linkedin.com/in/cesaradonyscastillo/)
-* **Email Corporativo:** `castleaffiliates1@gmail.com`
+* **Upwork (Official Contracting):** [View Profile & Availability](https://www.upwork.com/freelancers/~01a4111d17cbc4e97f)
+* **LinkedIn:** [Let's Connect Professionally](https://www.linkedin.com/in/cesaradonyscastillo/)
+* **Corporate Email:** `castleaffiliates1@gmail.com`
 
-> **Note:** Todos los repositorios públicos contienen la arquitectura y el esqueleto técnico. La lógica de generación de Alpha y claves de producción se mantienen en entornos privados encriptados para seguridad de Castle Trade LLC.
+> **Note:** All public repositories contain architectural frameworks and technical skeletons. Alpha-generating logic and production keys are maintained within encrypted, private environments for the security of Castle Trade LLC.
