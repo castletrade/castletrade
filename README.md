@@ -1,7 +1,6 @@
 # Senior Software Engineer & Quant | Founder of Castle Trade LLC 🏛️
 
-Combinando la lógica de negocios estratégica con ingeniería de sistemas de alto rendimiento. Mi enfoque principal es el diseño y despliegue de infraestructuras de trading de baja latencia y plataformas impulsadas por IA.
-
+Merging strategic business logic with high-performance systems engineering. I specialize in the architecture and deployment of low-latency trading infrastructures and AI-integrated financial platforms.
 ---
 
 ### 🛠️ Tech Stack & Ecosystem
